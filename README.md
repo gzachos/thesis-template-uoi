@@ -1,4 +1,4 @@
-# cseuoi-thesis-template
+# thesis-template-uoi
 
 This is an **unofficial** XeLaTeX template for Diploma theses authored by undergraduate students in
 the [Department of Computer Science and Engineering](https://www.cse.uoi.gr), [School of Engineering](https://engineering.uoi.gr/), 
@@ -9,6 +9,10 @@ the [Department of Computer Science and Engineering](https://www.cse.uoi.gr), [S
  * This template was based on the [official template for Master's theses and Ph.D. dissertations](https://github.com/vvdimako/cseuoi-thesis) used at the same department.
  * Initial modifications made by [George Z. Zachos](https://gzachos.com) on January 2021.
 
+
+## Sample PDF files
+ * [Sample thesis in Greek](SampleThesis-GR.pdf)
+ * [Sample thesis in English](SampleThesis-EN.pdf)
 
 ## Software Installation
 
@@ -34,7 +38,7 @@ download "LaTeX Bibliography Files" ZIP file, extract it and place the `IEEEtran
 
 
 ## Compilation
-Open the `SampleThesis.tex` file with your TeX editor and compile it with XeLaTeX.
+Open the [`Template/SampleThesis.tex`](Template/SampleThesis.tex) file with your TeX editor and compile it with XeLaTeX.
 In case the bibliography page is not created compile with `XeLaTeX`, then `BibTeX` and finally `XeLaTeX` (may require two `XeLaTeX` compilations at the end).
 
 
