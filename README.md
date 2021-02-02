@@ -1,6 +1,6 @@
 # thesis-template-uoi
 
-This is an **unofficial** XeLaTeX template for Diploma theses authored by undergraduate students in
+This is an **unofficial** XeLaTeX template for Diploma theses authored by undergraduate students at
 the [Department of Computer Science and Engineering](https://www.cse.uoi.gr), [School of Engineering](https://engineering.uoi.gr/), 
 [University of Ioannina](https://www.uoi.gr/), in partial fulfillment of the requirements for the Diploma of Engineering degree. 
 
